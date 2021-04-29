@@ -2,7 +2,7 @@
 ### What is pandas?
 Pandas is a software library written for the Python programming language for data manipulation and analysis. It is an open-source Python package that is most widely used for data science/data analysis and machine learning tasks. pandas is a fast, powerful, flexible, and easy-to-use open-source data analysis and manipulation tool, built on top of the Python programming language.
 
-**Part-1**
+`Part-1`
 
 -   Loading entire data into pandas
 - Loading specific data into pandas
