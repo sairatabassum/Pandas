@@ -20,3 +20,15 @@ Pandas is a software library written for the Python programming language for dat
 - Filter based on textual patterns
 - Conditional Changes
 - Aggregate Statistics (sum, mean, count)
+
+
+### What is DataFrame?
+A Data frame is a two-dimensional data structure, data is aligned in a tabular fashion in rows and columns. like a 2 dimensional array, or a table with rows and columns.
+
+`Part-2`
+- Create Pandas Dataframe by different ways
+- Mean, Median, Mode
+- Column Selection
+- Row Selection
+- Row and Column select
+
