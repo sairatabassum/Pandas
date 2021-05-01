@@ -4,31 +4,31 @@ Pandas is a software library written for the Python programming language for dat
 
 `Part-1`
 
--   Loading entire data into pandas
-- Loading specific data into pandas
-- Excel file load
-- Txt file load
-- Reading Data into pandas
-- Describing Data
-- Sorting Data
-- Making Changes to data
-- Drop Columns
-- Add Column
-- Rearranging Columns
-- Saving Data in CSV, Excel, Txt format (Exporting)
-- Filtering Data
-- Filter based on textual patterns
-- Conditional Changes
-- Aggregate Statistics (sum, mean, count)
+-   **Loading entire data into pandas**
+- **Loading specific data into pandas**
+- **Excel file load**
+- **Txt file load**
+- **Reading Data into pandas**
+- **Describing Data**
+- **Sorting Data**
+- **Making Changes to data**
+- **Drop Columns**
+- **Add Column**
+- **Rearranging Columns**
+- **Saving Data in CSV, Excel, Txt format (Exporting)**
+- **Filtering Data**
+- **Filter based on textual patterns**
+- **Conditional Changes**
+- **Aggregate Statistics (sum, mean, count)**
 
 
 ### What is DataFrame?
 A Data frame is a two-dimensional data structure, data is aligned in a tabular fashion in rows and columns. like a 2 dimensional array, or a table with rows and columns.
 
 `Part-2`
-- Create Pandas Dataframe by different ways
-- Mean, Median, Mode
-- Column Selection
-- Row Selection
-- Row and Column select
+- **Create Pandas Dataframe by different ways**
+- **Mean, Median, Mode**
+- **Column Selection**
+- **Row Selection**
+- **Row and Column select**
 
